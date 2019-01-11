@@ -24,7 +24,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
      id="metadata4491"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs4489"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4675"><path
@@ -2930,8 +2930,8 @@
      inkscape:lockguides="false"
      inkscape:document-units="mm"
      inkscape:zoom="0.23"
-     inkscape:cx="1711.3259"
-     inkscape:cy="2345.1208"
+     inkscape:cx="2068.3348"
+     inkscape:cy="1259.4131"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -3002,9 +3002,9 @@
    x="136.65398"
    y="-1896.0177"
    transform="scale(1,-1)" /><rect
-   style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.50425186, 9.00850367;stroke-dashoffset:0;stroke-opacity:1"
+   style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#a0a0a0;stroke-width:3.11811027;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.11811027,6.23622054;stroke-dashoffset:0;stroke-opacity:1"
    id="rect8906-3"
-   width="557.96368"
+   width="436.91006"
    height="53.033009"
    x="485.79144"
    y="-2214.4539"
@@ -3030,8 +3030,9 @@
      x="84.841492"
      y="-3197.8901"
      id="tspan18828"><tspan
-   style="font-size:160px;font-weight:bold"
+   style="font-size:154.00000169px;font-weight:bold"
    id="tspan13319">dyno</tspan>: INFERRING, VISUALIZING AND INTERPRETING TRAJECTORIES</tspan></text>
+
 
 
 
@@ -3057,6 +3058,7 @@
 
 
 
+
 <text
    transform="scale(1,-1)"
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:OpenSans-Italic;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3068,6 +3070,7 @@
      style="font-size:22px;line-height:1.25"
      x="84.10894"
      y="-3132.1335">Wouter Saelens* ¹ ², Robrecht Cannoodt* ¹ ² ³, Helena Todorov¹ ² ⁴, Yvan Saeys¹ ²</tspan></text>
+
 
 
 
@@ -3095,6 +3098,7 @@
      x="83.94487"
      y="-3050.7083"
      id="tspan928">⁴ Centre International de Recherche en Infectiologie, Inserm, U1111, Université Claude Bernard Lyon 1, CNRS, UMR5308, École Normale Supérieure de Lyon, Univ Lyon, F-69007, Lyon, France</tspan></text>
+
 
 
 
@@ -3778,6 +3782,7 @@
 
 
 
+
 <rect
    style="opacity:1;fill:none;fill-opacity:0.43700789;stroke:#9362e0;stroke-width:4.50425243;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect18919-2-7"
@@ -3833,6 +3838,7 @@
      sodipodi:role="line">dyn<tspan
    id="tspan923"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">verse</tspan></tspan></text>
+
 
 </g><g
      transform="translate(0,1.628418e-6)"
@@ -4090,6 +4096,7 @@
      sodipodi:role="line"
      id="tspan1038">Selecting the most optimal method(s)</tspan></text>
 
+
 <g
    style="stroke-width:4.76798153"
    transform="matrix(0.04364721,0,0,0.04364721,76.623776,26.309703)"
@@ -4251,6 +4258,7 @@
      style="stroke-width:0.74999994"
      id="tspan8076" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:31.44583893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994"
@@ -4264,6 +4272,7 @@
      style="font-weight:bold;text-align:end;text-anchor:end;stroke-width:0.74999994"
      id="tspan8668-2">Choice of method depends on the:</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:31.44583893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994"
@@ -4276,6 +4285,7 @@
      y="-2532.3818"
      style="font-weight:bold;text-align:end;text-anchor:end;stroke-width:0.74999994"
      id="tspan8668-23">User</tspan></text>
+
 
 <flowRoot
    xml:space="preserve"
@@ -4306,6 +4316,7 @@
      style="line-height:1.25;stroke-width:0.75"
      id="tspan8740">Prior information (such as start cells)</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -4334,6 +4345,7 @@
      style="line-height:1.25;stroke-width:0.75"
      id="tspan8769" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -4348,6 +4360,7 @@
      id="tspan8843">Our app gives <tspan
    style="font-weight:bold"
    id="tspan8839">recommendations</tspan> based on these criteria</tspan></text>
+
 
 <path
    sodipodi:type="star"
@@ -4386,27 +4399,28 @@
    transform="scale(1,-1)" /><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="1035.3116"
-   y="-2282.0508"
+   x="909.64648"
+   y="-2280.5508"
    id="text8853"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      id="tspan8851"
-     x="1035.3116"
-     y="-2255.5078"
+     x="909.64648"
+     y="-2254.0078"
      style="text-align:end;text-anchor:end;stroke-width:0.75" /><tspan
      sodipodi:role="line"
-     x="1035.3116"
-     y="-2218.0078"
+     x="909.64648"
+     y="-2216.5078"
      style="text-align:end;text-anchor:end;stroke-width:0.75"
      id="tspan8855" /><tspan
      sodipodi:role="line"
-     x="1035.3116"
-     y="-2179.9258"
+     x="909.64648"
+     y="-2178.4258"
      style="text-align:end;text-anchor:end;stroke-width:0.75"
      id="tspan8908">Or go to:  <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code'"
-   id="tspan8916">http://guidelines.dynverse.org</tspan></tspan></text>
+   id="tspan8916">guidelines.dynverse.org</tspan></tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -4425,6 +4439,7 @@
        style="font-size:22px"
        id="tspan8935">devtools::install_github(&quot;dynverse/dynguidelines&quot;)</tspan></tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -4438,13 +4453,14 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';text-align:start;text-anchor:start;stroke-width:0.75"
      id="tspan8855-9-3" /></text>
 
+
 <path
    sodipodi:type="star"
    style="opacity:1;fill:#9362e0;fill-opacity:1;stroke:none;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.50425184, 9.00850367;stroke-dashoffset:0;stroke-opacity:1"
    id="path8822-2"
    sodipodi:sides="3"
-   sodipodi:cx="1170.978"
-   sodipodi:cy="-2644.5263"
+   sodipodi:cx="1141.0028"
+   sodipodi:cy="-2628.3859"
    sodipodi:r1="25.404007"
    sodipodi:r2="12.702005"
    sodipodi:arg1="0"
@@ -4452,32 +4468,33 @@
    inkscape:flatsided="true"
    inkscape:rounded="0"
    inkscape:randomized="0"
-   d="m 1196.382,-2644.5264 -38.106,22.0005 v -44.001 z"
+   d="m 1166.4068,-2628.386 -38.106,22.0005 v -44.001 z"
    inkscape:transform-center-x="-8.468003"
    inkscape:transform-center-y="4.8619928e-05"
    transform="scale(1,-1)" /><rect
-   style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.50425193, 9.00850385;stroke-dashoffset:0;stroke-opacity:1"
+   style="opacity:1;fill:none;fill-opacity:1;stroke:#b5b9c2;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.50425193, 9.00850385000000031;stroke-dashoffset:0;stroke-opacity:1"
    id="rect9509"
    width="595.27563"
    height="841.88977"
-   x="-2667.7295"
+   x="-2654.2295"
    y="-2256.9568"
    transform="matrix(0,-1,-1,0,0,0)" /><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:31.44583893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994"
    x="152.23055"
-   y="-2861.8569"
+   y="-2864.8569"
    id="text18872-9-9"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      x="152.23055"
-     y="-2861.8569"
+     y="-2864.8569"
      style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.74999994"
      id="tspan9639">dyno is a <tspan
    style="font-weight:bold;text-align:start;text-anchor:start"
-   id="tspan9551">toolkit</tspan> for inferring, visualizing and interpreting <tspan
+   id="tspan9551">toolkit</tspan> for inferring, visualizing and interpreting<tspan
    style="font-weight:bold;text-align:start;text-anchor:start"
-   id="tspan9553">trajectory inference methods</tspan> in R</tspan></text>
+   id="tspan9553"> trajectories</tspan> in R</tspan></text>
+
 
 <path
    sodipodi:type="star"
@@ -4485,7 +4502,7 @@
    id="path8822-5"
    sodipodi:sides="3"
    sodipodi:cx="105.92063"
-   sodipodi:cy="-2871.7351"
+   sodipodi:cy="-2874.7351"
    sodipodi:r1="25.404007"
    sodipodi:r2="12.702005"
    sodipodi:arg1="0"
@@ -4493,31 +4510,32 @@
    inkscape:flatsided="true"
    inkscape:rounded="0"
    inkscape:randomized="0"
-   d="m 131.32464,-2871.7351 -38.106012,22.0005 0,-44.001 z"
+   d="m 131.32464,-2874.7351 -38.106012,22.0005 0,-44.001 z"
    inkscape:transform-center-x="-8.468003"
    inkscape:transform-center-y="4.8619928e-05"
    transform="scale(1,-1)" /><g
    id="g9650"
-   transform="matrix(1.2507586,0,0,1.2507586,36.830717,-740.3283)"
+   transform="matrix(1.2507586,0,0,1.2507586,124.8742,-737.3283)"
    style="stroke-width:0.79951477"><rect
    transform="scale(1,-1)"
    y="-2914.5278"
    x="1331.0414"
    height="53.033009"
-   width="464.96368"
+   width="332.00089"
    id="rect8906-3-9"
-   style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:3.60121608;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.60121595, 7.20243186;stroke-dashoffset:0;stroke-opacity:1" /><text
+   style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:3.60121608;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.60121595, 7.20243187;stroke-dashoffset:0;stroke-opacity:1" /><text
    transform="scale(1,-1)"
    id="text8853-7"
    y="-2878.8406"
-   x="1777.0616"
+   x="1652.3429"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59963608"
    xml:space="preserve"><tspan
      id="tspan8908-1"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';text-align:end;text-anchor:end;stroke-width:0.59963608"
      y="-2878.8406"
-     x="1777.0616"
-     sodipodi:role="line">http://dyno.dynverse.org</tspan></text>
+     x="1652.3429"
+     sodipodi:role="line">dyno.dynverse.org</tspan></text>
+
 
 </g><text
    xml:space="preserve"
@@ -4534,18 +4552,20 @@
    style="font-weight:bold"
    id="tspan21100">benchmark</tspan>:  </tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:31.44583893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994"
-   x="1394.0364"
-   y="-2631.981"
+   x="1364.0612"
+   y="-2615.8406"
    id="text18872-9-3"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="1394.0364"
-     y="-2631.981"
+     x="1364.0612"
+     y="-2615.8406"
      style="font-weight:bold;text-align:end;text-anchor:end;stroke-width:0.74999994"
      id="tspan8668-2-9">Examples:</tspan></text>
+
 
 <g
    id="sub_guidelines-4"
@@ -4566,6 +4586,7 @@
      x="101.10973"
      sodipodi:role="line"
      id="tspan1038-4">Inferring trajectories</tspan></text>
+
 
 <g
    style="stroke-width:2.94029617"
@@ -4878,6 +4899,7 @@
      style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.74999994"
      id="tspan11090">     ...each with their own interface...</tspan></text>
 
+
 <path
    sodipodi:type="star"
    style="opacity:1;fill:#3485b4;fill-opacity:1;stroke:none;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.50425178, 9.00850355;stroke-dashoffset:0;stroke-opacity:1"
@@ -4917,6 +4939,7 @@
    style="font-weight:normal"
    id="tspan11096">for </tspan>55 methods </tspan></text>
 
+
 <g
    style="stroke-width:0.33120248"
    id="g8345"
@@ -4943,6 +4966,7 @@
      x="422.91425"
      sodipodi:role="line">trajectory model</tspan></text>
 
+
 <g
    transform="translate(168.04666)"
    style="stroke-width:0.33120248"
@@ -4963,6 +4987,7 @@
      x="53.144863"
      y="4.9605546"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08776867">Input</tspan></text>
+
 
 <g
    style="stroke-width:0.33120248"
@@ -4995,6 +5020,7 @@
      y="42.811008"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.08776867"
      id="tspan11376">- Default parameters</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -5048,6 +5074,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#7e7e7e;fill-opacity:1;stroke-width:0.08776867"
      id="tspan1224" /></text>
 
+
 </g></g><g
    style="stroke-width:0.33120248"
    transform="translate(-0.0122832)"
@@ -5098,6 +5125,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16560124;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
      id="tspan6590">information</tspan></text>
 
+
 <text
    id="text1351"
    y="81.922096"
@@ -5114,6 +5142,7 @@
      x="340.35529"
      sodipodi:role="line"
      id="tspan1362">subset of</tspan></text>
+
 
 <g
    style="stroke-width:0.33120248"
@@ -5137,6 +5166,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#050505;fill-opacity:1;stroke:none;stroke-width:0.16560124"
      id="tspan7143">TI method</tspan></text>
 
+
 </g><text
    id="text7151"
    y="4.9605546"
@@ -5153,6 +5183,7 @@
      x="302.69635"
      sodipodi:role="line"
      id="tspan7171">inference</tspan></text>
+
 
 </g><g
    style="stroke-width:0.33120248"
@@ -5633,6 +5664,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16560124"
      id="tspan14157-8">space</tspan></text>
 
+
 <path
    style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#090909;stroke-width:0.33172405;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0.33172407, 0.33172407;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
    d="m -498.36133,307.26367 c -3.6388,-2.2e-4 -6.58899,2.94909 -6.58984,6.58789 7.4e-4,1.73787 0.68799,3.40509 1.91211,4.63867 l 22.59848,32.55171 0.59097,27.72954 -30.70473,29.62298 c -0.90785,0.72063 -2.14558,2.87887 -2.14878,5.21296 0.004,3.06147 2.11566,5.71707 4.59286,6.14368 l 70.63395,1.36788 c 1.63722,-0.43179 4.12688,-3.23663 4.13037,-6.56821 -0.003,-1.57122 -0.56775,-3.08959 -1.00263,-3.74597 l -32.05971,-31.35873 -0.72869,-23.1758 c 24.6017,0.0199 49.20231,-0.18775 73.80319,-0.35708 1.85005,-0.14149 4.80056,-3.092 4.80034,-6.73156 2.2e-4,-3.63956 -2.95029,-6.59007 -6.58985,-6.58984 -0.0502,10e-4 -0.10028,0.003 -0.15039,0.006 v -0.0664 l -41.36523,-0.35352 -32.82289,-0.37515 -24.16771,-32.76093 c -0.68786,-0.78646 -2.64785,-1.77515 -4.73206,-1.77798 z"
@@ -5655,6 +5687,7 @@
      x="-113.90994"
      id="tspan68483"
      sodipodi:role="line">Cell positions</tspan></text>
+
 
 <path
    style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#9b9b9b;stroke-width:0.08776867;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -5801,6 +5834,7 @@
      y="100.87701"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16560124">Milestones</tspan></text>
 
+
 <text
    transform="scale(1.0004019,0.99959826)"
    id="text68208"
@@ -5813,6 +5847,7 @@
      x="-145.06517"
      id="tspan68206"
      sodipodi:role="line">Edges</tspan></text>
+
 
 <path
    style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#9b9b9b;stroke-width:0.08776867;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -5847,6 +5882,7 @@
      x="-138.47664"
      sodipodi:role="line">commitment</tspan></text>
 
+
 <path
    sodipodi:nodetypes="cc"
    inkscape:connector-curvature="0"
@@ -5864,6 +5900,7 @@
      y="-1608.0726"
      style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:0.74999994"
      id="tspan11094-5" /></text>
+
 
 <path
    sodipodi:type="star"
@@ -5893,27 +5930,29 @@
      x="233.90933"
      y="-1455.2123"
      style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.74999994"
-     id="tspan11474">Next methods can be included through</tspan></text>
+     id="tspan11474">New methods can be included through</tspan></text>
+
 
 <rect
-   style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.50425179, 9.00850352;stroke-dashoffset:0;stroke-opacity:1"
+   style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#a1a1a1;stroke-width:3.11811018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.11811027, 6.23622054;stroke-dashoffset:0;stroke-opacity:1"
    id="rect8906-3-6"
-   width="502.80936"
+   width="386.36731"
    height="53.033009"
-   x="269.76443"
+   x="228.26035"
    y="-1437.9465"
    transform="scale(1,-1)" /><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="759.76819"
+   x="602.97498"
    y="-1400.5435"
    id="text8853-15"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="759.76819"
+     x="602.97498"
      y="-1400.5435"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';text-align:end;text-anchor:end;stroke-width:0.75"
-     id="tspan8908-5">http://methods.dynverse.org</tspan></text>
+     id="tspan8908-5">methods.dynverse.org</tspan></text>
+
 
 <path
    sodipodi:type="star"
@@ -5945,6 +5984,7 @@
      style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.74999994"
      id="tspan11474-2">Each method can be run with one line</tspan></text>
 
+
 <rect
    style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.50425177, 9.00850351;stroke-dashoffset:0;stroke-opacity:1"
    id="rect8906-3-6-2"
@@ -5965,6 +6005,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';text-align:end;text-anchor:end;stroke-width:0.75"
      id="tspan8908-5-9">infer_trajectory(dataset, &quot;my_favorite_ti_method&quot;)</tspan></text>
 
+
 <g
    id="sub_guidelines-4-7"
    transform="matrix(5.6701235,0,0,-5.6701235,773.66592,1492.9097)"
@@ -5984,6 +6025,7 @@
      x="101.10973"
      sodipodi:role="line"
      id="tspan1038-4-3">Detecting differential expression</tspan></text>
+
 
 <g
    id="g1877"
@@ -6258,6 +6300,7 @@
      style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:0.74999994"
      id="tspan11090-9">Branch</tspan></text>
 
+
 <rect
    style="opacity:1;fill:none;fill-opacity:0.43700789;stroke:#f0582f;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect18919-2-7-7-9-6"
@@ -6284,6 +6327,7 @@
      x="101.10973"
      sodipodi:role="line"
      id="tspan1038-4-3-7">Annotating the trajectory</tspan></text>
+
 
 </g><path
    sodipodi:type="star"
@@ -6321,6 +6365,7 @@
      id="tspan13227">to make it <tspan
    style="font-weight:bold"
    id="tspan13229">interpretable</tspan> </tspan></text>
+
 
 <g
    id="g2599-1-4"
@@ -6571,6 +6616,7 @@
      id="tspan13753"
      sodipodi:role="line">x</tspan></text>
 
+
 <path
    sodipodi:nodetypes="ccccc"
    inkscape:connector-curvature="0"
@@ -6588,6 +6634,7 @@
      id="tspan13753-0"
      sodipodi:role="line">y</tspan></text>
 
+
 <path
    sodipodi:nodetypes="cccccc"
    inkscape:connector-curvature="0"
@@ -6604,6 +6651,7 @@
      x="246.95834"
      id="tspan13753-0-7"
      sodipodi:role="line">▶</tspan></text>
+
 
 </g><g
    id="g1173-5"
@@ -6869,6 +6917,7 @@
      style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.74999994"
      id="tspan13227-0">Rooting based on markers (or manually)</tspan></text>
 
+
 <path
    sodipodi:type="star"
    style="opacity:1;fill:#f7a691;fill-opacity:1;stroke:none;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.5042516, 9.00850319;stroke-dashoffset:0;stroke-opacity:1"
@@ -6901,6 +6950,7 @@
    style="fill:#000000;fill-opacity:1"
    id="tspan13293"> Directionality of edges based on RNA velocity</tspan></tspan></text>
 
+
 <path
    sodipodi:type="star"
    style="opacity:1;fill:#f7a691;fill-opacity:1;stroke:none;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.50425154, 9.00850307;stroke-dashoffset:0;stroke-opacity:1"
@@ -6931,6 +6981,7 @@
      style="font-weight:normal;text-align:start;text-anchor:start;fill:#0c0c0c;fill-opacity:1;stroke-width:0.74999994"
      id="tspan13227-0-2-7">Labelling milestones based on markers (or manually)</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:31.44583893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994"
@@ -6943,6 +6994,7 @@
      y="-1142.557"
      style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:0.74999994"
      id="tspan11090-9-1">Branch point</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -6957,6 +7009,7 @@
      style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:0.74999994"
      id="tspan11090-9-1-0">Overall</tspan></text>
 
+
 <text
    id="text817-3-5-0-3-9"
    y="-757.64935"
@@ -6969,6 +7022,7 @@
      x="207.45056"
      sodipodi:role="line"
      id="tspan1038-4-3-7-8">Visualizing the trajectory</tspan></text>
+
 
 <path
    sodipodi:type="star"
@@ -7001,6 +7055,7 @@
      id="tspan11090-9-3">Various <tspan
    style="font-weight:bold"
    id="tspan13468">expression patterns</tspan> can be detected</tspan></text>
+
 
 <image
    y="-1133.4565"
@@ -7035,7 +7090,7 @@
    id="path8822-63-3-8-7"
    sodipodi:sides="3"
    sodipodi:cx="215.47748"
-   sodipodi:cy="-682.14296"
+   sodipodi:cy="-691.14294"
    sodipodi:r1="25.404007"
    sodipodi:r2="12.702005"
    sodipodi:arg1="0"
@@ -7043,21 +7098,24 @@
    inkscape:flatsided="true"
    inkscape:rounded="0"
    inkscape:randomized="0"
-   d="m 240.88148,-682.14294 -38.10601,22.00051 v -44.00103 z"
+   d="m 240.88148,-691.14294 -38.10601,22.00051 v -44.00103 z"
    inkscape:transform-center-x="-8.468003"
    inkscape:transform-center-y="4.8619928e-05"
    transform="scale(1,-1)" /><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:31.44583893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994"
    x="255.66278"
-   y="-673.27209"
+   y="-682.27209"
    id="text18872-9-5-1-0-0"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      x="255.66278"
-     y="-673.27209"
+     y="-682.27209"
      style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.74999994"
-     id="tspan11090-9-3-6">Visualize a trajectory in multiple ways</tspan></text>
+     id="tspan11090-9-3-6">Visualize a model in <tspan
+   style="font-weight:bold"
+   id="tspan2521">multiple ways</tspan></tspan></text>
+
 
 <path
    sodipodi:type="star"
@@ -7087,7 +7145,10 @@
      x="1430.1627"
      y="-697.27209"
      style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.74999994"
-     id="tspan11090-9-3-6-7-7">Compare models on a common embedding</tspan></text>
+     id="tspan11090-9-3-6-7-7">Compare models on a <tspan
+   style="font-weight:bold"
+   id="tspan2525">common embedding</tspan></tspan></text>
+
 
 <image
    y="-632.77209"
@@ -7146,6 +7207,7 @@
      style="font-weight:normal;text-align:start;text-anchor:start;fill:#0c0c0c;fill-opacity:1;stroke-width:0.74999994"
      id="tspan21081">We welcome additional ideas about common operations</tspan></text>
 
+
 <path
    sodipodi:type="star"
    style="opacity:1;fill:#9362e0;fill-opacity:1;stroke:none;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.50425178, 9.00850355;stroke-dashoffset:0;stroke-opacity:1"
@@ -7164,9 +7226,9 @@
    inkscape:transform-center-x="-8.468003"
    inkscape:transform-center-y="4.8619928e-05"
    transform="scale(1,-1)" /><rect
-   style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:4.50425196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.50425179, 9.00850354;stroke-dashoffset:0;stroke-opacity:1"
+   style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#a1a1a1;stroke-width:3.11811027;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.11811027,6.23622054;stroke-dashoffset:0;stroke-opacity:1"
    id="rect8906-3-68"
-   width="549.89343"
+   width="412.69934"
    height="53.033009"
    x="488.09723"
    y="-2081.2515"
@@ -7174,40 +7236,53 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    x="496.91129"
-   y="-2148.8484"
+   y="-2146.5332"
    id="text8853-4"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      id="tspan8851-8"
      x="496.91129"
-     y="-2122.3054"
+     y="-2119.9902"
      style="text-align:end;text-anchor:end;stroke-width:0.75" /><tspan
      sodipodi:role="line"
      x="496.91129"
-     y="-2084.8054"
+     y="-2082.4902"
      style="text-align:start;text-anchor:start;stroke-width:0.75"
      id="tspan8855-8" /><tspan
      sodipodi:role="line"
      x="496.91129"
-     y="-2046.7235"
+     y="-2044.4082"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';text-align:start;text-anchor:start;stroke-width:0.75"
-     id="tspan8908-3">http://benchmark.dynverse.org  <tspan
+     id="tspan8908-3">benchmark.dynverse.org  <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
    id="tspan21144">Published soon!</tspan></tspan></text>
+
 
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="253.63614"
+   x="250.17746"
    y="-2039.547"
    id="text21155"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      id="tspan21153"
-     x="253.63614"
+     x="250.17746"
      y="-2039.547"
      style="stroke-width:0.75">Poster <tspan
    style="font-size:40px"
    id="tspan21157">1033</tspan></tspan></text>
 
+
+<text
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:OpenSans-Italic;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+   id="text4659-1"
+   x="2298.8813"
+   y="-3334.3074"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan4657-2"
+     style="font-size:32px;line-height:1.25;stroke-width:0.99999994"
+     x="2298.8813"
+     y="-3334.3074">3053</tspan></text>
 </g></svg>
